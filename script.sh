@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "testing12" > ./crap.txt
+echo "build1asdfsdfa" > ./build1a.artifact
