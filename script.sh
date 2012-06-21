@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "build1asdfsdfa" > ./build1b.artifact
+echo date > ./build1b.artifact
